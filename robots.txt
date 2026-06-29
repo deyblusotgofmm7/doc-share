@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deyblusotgofmm7.github.io/doc-share/sitemap.xml
